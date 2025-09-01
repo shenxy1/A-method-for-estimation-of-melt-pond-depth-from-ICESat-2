@@ -1,0 +1,5 @@
+input data can be download from https://nsidc.org/data/is2mpdda/versions/3, i.e., ICESat-2 Derived Sea Ice Melt Pond Characteristics from the Density-Dimension Algorithm, Version 3. Only the files ending with **raw\_photon\_data** are required. 
+
+We converted the original ICESat-2 data into this format, partly to facilitate direct use of the data and partly to enable direct comparison with other methods.
+
+Even a single original data file exceeds the website’s size limit and therefore cannot be uploaded directly. Users can download it from the corresponding website themselves.
